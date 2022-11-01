@@ -1,2 +1,0 @@
-# CurrencyBYN
-exchange rate chart
